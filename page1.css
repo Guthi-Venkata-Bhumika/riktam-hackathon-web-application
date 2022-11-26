@@ -1,0 +1,61 @@
+.head{
+	border: solid;
+	border-color: black;
+	text-align: center;
+}
+div h1 span{
+	background-color: black;
+	color: white;
+	border: solid;
+	border-radius: 50%;
+
+}
+.nav{
+	justify-content: space-around;
+	border: solid;
+	border-color: black;
+	background-color: lightgrey;
+	margin-top: 10px;
+	padding-left: 250px;
+}
+div a button{
+	border:solid;
+	border-color: black;
+	width: 150px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 2px,2px;
+	height: 30px;
+	cursor: pointer;
+}
+div a button:hover{
+	background-color: black;
+	color: white;
+}
+img{
+	height: 600px;
+	width: 1250px;
+}
+.foot{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	color: white;
+	padding-top: 5px;
+}
+.footer{
+	background-color: lightgrey;
+	color: black;
+	text-align: center;
+	height: 70px;
+	width: 100%;
+	padding-top: 1px;
+	padding-bottom: 2px;
+}
+.footer span{
+	background-color: black;
+	color: white;
+	border: solid;
+	border-radius: 50%;
+}
