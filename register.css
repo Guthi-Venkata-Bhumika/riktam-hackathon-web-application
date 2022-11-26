@@ -1,0 +1,43 @@
+.Registration form{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width: 350px;
+}
+body{
+    background-color: lightgrey;
+    background-size: cover;
+}
+.Registration form h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+}
+.Registration form p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+.Registration form input{
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+.Registration form button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border: 0;
+    border-radius: 5px;
+    background-color: grey;
+}   
+.Registration form button:hover{
+    color: white;
+    background-color: ;
+}
